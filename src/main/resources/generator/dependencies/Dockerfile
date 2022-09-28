@@ -6,7 +6,7 @@ FROM jboss/keycloak:16.1.1
 FROM mariadb:10.8.3
 FROM mongo:5.0.9
 FROM mysql:8.0.29
-FROM postgres:14.3
+FROM postgres:14.5
 FROM confluentinc/cp-zookeeper:7.1.1
 FROM confluentinc/cp-kafka:7.1.1
 FROM tchiotludo/akhq:0.21.0
