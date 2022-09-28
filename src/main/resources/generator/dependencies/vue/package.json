@@ -16,7 +16,7 @@
     "@types/jest": "28.1.0",
     "@types/sinon": "10.0.11",
     "@typescript-eslint/parser": "5.27.0",
-    "@vitejs/plugin-vue": "2.3.3",
+    "@vitejs/plugin-vue": "2.3.4",
     "@vue/eslint-config-typescript": "10.0.0",
     "@vue/test-utils": "2.0.0",
     "eslint": "8.16.0",
