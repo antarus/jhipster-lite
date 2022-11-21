@@ -20,7 +20,7 @@
     "@vue/eslint-config-prettier": "7.0.0",
     "@vue/eslint-config-typescript": "11.0.2",
     "@vue/test-utils": "2.2.1",
-    "eslint": "8.27.0",
+    "eslint": "8.28.0",
     "eslint-plugin-vue": "9.7.0",
     "jsdom": "20.0.2",
     "sinon": "14.0.2",
