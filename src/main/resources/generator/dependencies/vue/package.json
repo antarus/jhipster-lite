@@ -24,7 +24,7 @@
     "eslint-plugin-vue": "9.7.0",
     "jsdom": "20.0.2",
     "sinon": "14.0.2",
-    "typescript": "4.8.4",
+    "typescript": "4.9.4",
     "vite": "3.2.3",
     "vitest": "0.25.1",
     "vitest-sonar-reporter": "0.3.3",
