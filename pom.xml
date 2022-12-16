@@ -92,7 +92,7 @@
     <start-class>tech.jhipster.lite.JHLiteApp</start-class>
 
     <spring-boot.version>3.0.0-RC1</spring-boot.version>
-    <byte-buddy.version>1.12.18</byte-buddy.version>
+    <byte-buddy.version>1.12.20</byte-buddy.version>
     <compiler-plugin.version>3.10.1</compiler-plugin.version>
     <surefire-plugin.version>3.0.0-M7</surefire-plugin.version>
     <jacoco.version>0.8.8</jacoco.version>
