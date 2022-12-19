@@ -32,7 +32,7 @@
     <mongock.version>5.0.41</mongock.version>
     <neo4j-migrations.version>1.13.0</neo4j-migrations.version>
     <archunit-junit5.version>1.0.0</archunit-junit5.version>
-    <cucumber.version>7.9.0</cucumber.version>
+    <cucumber.version>7.10.1</cucumber.version>
     <testng.version>7.6.1</testng.version>
     <pulsar.version>2.10.0</pulsar.version>
     <liquibase.version>4.17.2</liquibase.version>
