@@ -72,7 +72,7 @@
     <apache-commons-io.version>2.11.0</apache-commons-io.version>
     <cucumber.version>7.10.1</cucumber.version>
     <testng.version>7.7.1</testng.version>
-    <maven-model.version>3.8.6</maven-model.version>
+    <maven-model.version>3.8.7</maven-model.version>
     <joox.version>2.0.0</joox.version>
     <dom4j.version>2.1.3</dom4j.version>
     <testcontainers.version>1.17.6</testcontainers.version>
