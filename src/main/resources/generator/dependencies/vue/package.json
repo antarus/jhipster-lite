@@ -16,7 +16,7 @@
     "@types/sinon": "10.0.13",
     "@typescript-eslint/parser": "5.47.1",
     "@vitejs/plugin-vue": "4.0.0",
-    "@vitest/coverage-istanbul": "0.26.2",
+    "@vitest/coverage-istanbul": "0.26.3",
     "@vue/eslint-config-prettier": "7.0.0",
     "@vue/eslint-config-typescript": "11.0.2",
     "@vue/test-utils": "2.2.6",
