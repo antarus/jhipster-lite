@@ -19,7 +19,7 @@
     "@types/ws": "8.5.3",
     "@vitejs/plugin-react": "3.0.0",
     "@vitest/coverage-istanbul": "0.26.2",
-    "jsdom": "20.0.3",
+    "jsdom": "21.0.0",
     "react-scripts": "5.0.1",
     "sass": "1.57.1",
     "ts-node": "10.9.1",
