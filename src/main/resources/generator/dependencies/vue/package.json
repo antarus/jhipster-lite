@@ -7,7 +7,7 @@
     "axios": "1.2.2",
     "pinia": "2.0.28",
     "pinia-plugin-persist": "1.0.0",
-    "vue": "3.2.45",
+    "vue": "3.2.47",
     "vue-router": "4.1.6"
   },
   "devDependencies": {
