@@ -26,6 +26,6 @@
     "typescript": "4.9.4",
     "vite": "4.0.3",
     "vitest": "0.26.2",
-    "vitest-sonar-reporter": "0.3.3"
+    "vitest-sonar-reporter": "0.3.4"
   }
 }
