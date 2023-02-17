@@ -12,4 +12,4 @@ FROM confluentinc/cp-zookeeper:7.3.1
 FROM confluentinc/cp-kafka:7.3.1
 FROM tchiotludo/akhq:0.23.0
 FROM apachepulsar/pulsar:2.10.1
-FROM neo4j:5.3.0-community
+FROM neo4j:5.5.0-community
